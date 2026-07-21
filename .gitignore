@@ -1,4 +1,4 @@
-venv/
+.venv/
 Paper/*.aux
 Paper/*.bbl
 Paper/*.blg
