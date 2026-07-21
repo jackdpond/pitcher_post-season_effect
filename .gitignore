@@ -1,3 +1,9 @@
 venv/
-reel_events_rows-2.csv
-songs_rows.csv
+Paper/*.aux
+Paper/*.bbl
+Paper/*.blg
+Paper/*.fdb_latexmk
+Paper/*.fls
+Paper/*.log
+Paper/*.out
+Paper/*.synctex.gz
